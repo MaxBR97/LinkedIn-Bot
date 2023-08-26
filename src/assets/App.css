@@ -1,0 +1,65 @@
+:root{
+    background-color:red;
+    text-align: left;
+    text-decoration: double;
+}
+
+.header {
+  
+}
+
+.userTasks {
+    background-color:greenyellow;
+    border-color:blue;
+    margin:10px;
+    padding: 20px;
+}
+
+.tasks{
+    margin:20px;
+    border: 50px;
+    border-color: antiquewhite;
+    
+}
+
+.task {
+
+}
+
+label {
+
+    text-shadow: 10cm;
+}
+
+input {
+    margin-right: 10000px;
+}
+
+button {
+    color:blue;
+    padding: 5px;
+}
+
+.username {
+
+}
+
+.password {
+
+}
+
+.scrapeUserConnections {
+    
+}
+
+.search_phrase {
+
+}
+
+.connections_amount {
+
+}
+
+.note {
+
+}
