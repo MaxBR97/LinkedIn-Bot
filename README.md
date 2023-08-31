@@ -1,8 +1,13 @@
-# React + Vite
+# Linkedin-Bot
+This project was made by me to automate the process of sending connects on Linkedin, as well as keeping track of them.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The use cases it provides:
 
-Currently, two official plugins are available:
+-Log in and Log out to given accounts.
+-Send a given number of connections to people under a given search phrase.
+-Sending notes to connections.
+-Setting up multiple tasks to multiple accounts to perform them sequently.
+-Saving the actions performed by the bot to a database that keeps track of the activity.
+-Scraping data about the user's connections and fetching it.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Written in JavaScript with libraries: React, Puppeteer, Express.
